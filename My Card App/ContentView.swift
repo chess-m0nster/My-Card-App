@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//Привет, лунатикам!
 struct ContentView: View {
     var body: some View {
         ZStack {
